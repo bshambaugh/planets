@@ -3,3 +3,4 @@ The two moons may be a problem for Wolfman.
 But the Mummy will appreciate the lack of humidity.
 This is a change on my local machine.
 This line is added to Wolfman's copy.
+This is another line put on the remote repository.
